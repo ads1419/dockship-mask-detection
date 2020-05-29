@@ -1,0 +1,3 @@
+AP: 82.29% (face)
+AP: 86.89% (face_mask)
+mAP: 84.59%

@@ -1,0 +1,3 @@
+i7-7700HQ CPU @ 2.80Ghz
+IMAGE DETECTION TIMES:			[forward_pass_time: 0.1840s misc: 0.0225s] per image
+IMAGE CLASSIFICATION TIMES:		[forward_pass_time: 0.1840s misc: 0.0225s] per image
