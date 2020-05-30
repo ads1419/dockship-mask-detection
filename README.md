@@ -101,11 +101,11 @@ Because of the Adaptive Average Pooling layers, network these days can take vari
 
 ### mAP Achieved
 
-A near state of the art mAP of **84.59** was achieved on the final cleaned dataset.
+A near state of the art mAP of **90.28** was achieved on the final cleaned dataset.
 
 | Face AP | Mask AP |
 |:----------:|:----------:|
-|     82.29%   |    86.89%    |
+|     90.76%   |    89.80%    |
 
 
 Precision-Recall Curves are as follows:

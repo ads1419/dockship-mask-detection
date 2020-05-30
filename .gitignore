@@ -1,0 +1,8 @@
+*.pyc
+src/data/__pycache__/
+src/layers/functions/__pycache__/
+ src/layers/modules/__pycache__/
+ src/models/__pycache__/
+ src/utils/__pycache__/
+ src/utils/nms/__pycache__/
+
